@@ -12,7 +12,7 @@ cookbook 'system', :git => 'https://github.com/PaytmLabs/chef-system.git', :ref 
 cookbook 'masala_base', :git => 'https://github.com/PaytmLabs/masala_base.git', :ref => 'develop'
 
 # Dependencies of this cookbook
-cookbook 'exhibitor', :git => 'https://github.com/PaytmLabs/chef-exhibitor.git', :ref => 'fix-runit-pin'
+#cookbook 'exhibitor', :git => 'https://github.com/PaytmLabs/chef-exhibitor.git', :ref => 'fix-runit-pin'
 
 # Now load the primary metadata
 metadata

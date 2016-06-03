@@ -7,5 +7,5 @@ long_description 'Installs/Configures masala_exhibitor'
 version          '0.1.0'
 
 depends          'masala_base', '~> 0.1.0'
-depends          'exhibitor', '~> 0.7.1'
+depends          'exhibitor', '~> 1.0.0'
 
